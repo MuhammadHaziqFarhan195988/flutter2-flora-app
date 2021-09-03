@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "715009984669",
+    "project_id": "floraapp-2cd7c",
+    "storage_bucket": "floraapp-2cd7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715009984669:android:05dda7664af35d276a2c74",
+        "android_client_info": {
+          "package_name": "com.haziq.floraapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715009984669-d24m36rip9c6aqj77qce0qpd90hn7d9v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBwg_nTPyuYbFUdNCJEiW735wTO3lZgco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "715009984669-d24m36rip9c6aqj77qce0qpd90hn7d9v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
